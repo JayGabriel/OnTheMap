@@ -1,4 +1,3 @@
-![alt text](https://raw.github.com/JayGabriel/OnTheMap/master/OnTheMapDemo.png)
 
 
 # OnTheMap
